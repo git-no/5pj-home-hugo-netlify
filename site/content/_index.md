@@ -1,5 +1,5 @@
 ---
-title: Experiences is the future
+title: Experiences is Future
 subtitle: Value to Generations and Organizations
 image: /img/bg01.jpg
 blurb:
@@ -8,7 +8,7 @@ blurb:
     50plus connects struggling 50+ with the information, support, training, and
     employer access they need to regain employment, advance in the workforce,
     and build financial capability and resiliency to prevent them from slipping
-    into poverty later in life. 
+    into poverty later in life.
 intro:
   heading: What we offer
   text: >-
@@ -16,7 +16,7 @@ intro:
     educated or need educations, you'll find help and support and personal
     assistance.
 products:
-  - text: 'Try our consulting and contact us. '
+  - text: "Try our consulting and contact us. "
 values:
   heading: Our values
   text: >-
@@ -25,4 +25,3 @@ values:
     of information.We want to turn this around and return the experience into
     value and empowering and unifying diversity and persons.
 ---
-
